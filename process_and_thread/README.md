@@ -4,3 +4,9 @@
 
 A process can be think of as a running program.
 ## THREADS
+
+
+## MUTEX
+
+
+## CONDITIONAL VARIABLES
